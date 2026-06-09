@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Isaackomeza
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Data Science
+- 👀 MSc. in Data Science
+- 🌱 I’m interested in Software Development and Data Science 
 - 💞️ I’m looking to collaborate on any project either in Software Development or Data Science Field.
 - 📫 How to reach me: Feel free to reach out to me to discuss more at isaackomeza@gmail.com
 
